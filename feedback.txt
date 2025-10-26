@@ -1,0 +1,3 @@
+Q7: There is no quick examination of the columns; some statistics such as mean and std (-5)
+The subtotals are not founded (-5)
+90/100
